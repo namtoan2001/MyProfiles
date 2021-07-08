@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Tourney:ital,wght@1,600&display=swap');
+body{
+    background-color: black;
+    font-family: 'Tourney', cursive;
+}
+.form-profiles{
+    background: linear-gradient(#444444	,#666666);
+    border-radius: 50px;
+    position: absolute;
+    top: 200px;
+    left: 40%;
+}
+.img-avt{
+    text-align: center;
+}
